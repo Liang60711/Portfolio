@@ -1,2 +1,0 @@
-# Profilio
-My Profilio repo
