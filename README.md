@@ -10,7 +10,6 @@
 
 ## 2_104analysis 104關鍵字分析
 使用套件(python)
-* requests
 * selenium
 * pandas 
 * seaborn  
