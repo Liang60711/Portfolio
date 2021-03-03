@@ -5,8 +5,21 @@
 * BeautifulSoup
 * pandas 
 * matplotlib
+資料透過網頁爬蟲擷取，並進行資料處理，最後進行繪圖（Bar, Plot, Scatter, Pie)  
 
-資料透過網頁爬蟲擷取，並進行資料處理，最後進行繪圖（Bar, Plot, Scatter, Pie)
+
+![image](https://github.com/Liang60711/Portfolio/blob/main/demo/Figure_1-1.png)    
+
+![image](https://github.com/Liang60711/Portfolio/blob/main/demo/Figure_1-2.png)   
+
+![image](https://github.com/Liang60711/Portfolio/blob/main/demo/Figure_1-3.png)   
+
+![image](https://github.com/Liang60711/Portfolio/blob/main/demo/Figure_1-4.png)   
+
+![image](https://github.com/Liang60711/Portfolio/blob/main/demo/Figure_1-5.png)   
+
+
+
 
 ## 2_104analysis 104關鍵字分析
 使用套件(python)
