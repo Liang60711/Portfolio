@@ -6,9 +6,7 @@
 * pandas 
 * matplotlib
 資料透過網頁爬蟲擷取，並進行資料處理，最後進行繪圖（Bar, Plot, Scatter, Pie)  
-
-
-![image](https://github.com/Liang60711/Portfolio/blob/main/demo/Figure_1-1.png)    
+<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-1.png" width=256 height=256 />
 
 ![image](https://github.com/Liang60711/Portfolio/blob/main/demo/Figure_1-2.png)   
 
