@@ -6,15 +6,15 @@
 * pandas 
 * matplotlib
 資料透過網頁爬蟲擷取，並進行資料處理，最後進行繪圖（Bar, Plot, Scatter, Pie)  
-<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-1.png" width="50%" height="50%" />  
+<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-1.png" width="75%" height="75%" />  
 
-<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-2.png" width="50%" height="50%" />  
+<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-2.png" width="75%" height="75%" />  
 
-<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-3.png" width="50%" height="50%" />  
+<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-3.png" width="75%" height="75%" />  
 
-<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-4.png" width="50%" height="50%" />  
+<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-4.png" width="75%" height="75%" />  
 
-<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-5.png" width="50%" height="50%" />  
+<img src="https://github.com/Liang60711/Portfolio/blob/master/demo/Figure_1-5.png" width="75%" height="75%" />  
 
 
 
